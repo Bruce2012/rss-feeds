@@ -1,0 +1,30 @@
+# 每个 feed 对应一个“无 RSS 的网页列表页”。
+# 需要填的核心是 CSS 选择器：item_selector 圈出列表里的每一项，
+# title_selector / link_selector 从每一项里取出标题和链接。
+# 在浏览器开发者工具中右键元素 -> Copy -> Copy selector 即可拿到选择器。
+feeds:
+  - id: sspai
+    title: 少数派首页
+    link: https://sspai.com/
+    description: 少数派首页推荐文章
+    url: https://sspai.com/
+    item_selector: "article.article__card"
+    title_selector: ".article__card__title"
+    link_selector: ".article__card__link"
+    max_items: 30
+
+  # 带日期和正文的示例（选择器需按目标网站调整）：
+  # - id: my-site
+  #   title: 我的网站更新
+  #   link: https://example.com/news/
+  #   description: example.com 新闻列表
+  #   url: https://example.com/news/
+  #   item_selector: "article.post"
+  #   title_selector: "h2 a"
+  #   link_selector: "h2 a"
+  #   date_selector: "time"
+  #   content_selector: ".post-summary"
+  #   date_formats:
+  #     - "%Y-%m-%d"
+  #     - "%Y/%m/%d %H:%M"
+  #   max_items: 50
