@@ -1,0 +1,15 @@
+feeds:
+  - id: sample
+    title: 示例站点
+    link: http://127.0.0.1:8765/
+    description: 本地示例页面的 RSS
+    url: http://127.0.0.1:8765/
+    item_selector: "article.post"
+    title_selector: "h2 a"
+    link_selector: "h2 a"
+    date_selector: "time"
+    content_selector: ".summary"
+    date_formats:
+      - "%Y-%m-%d %H:%M"
+    feed_url: "https://example.com/rss/sample.xml"
+    max_items: 3
