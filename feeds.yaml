@@ -39,3 +39,11 @@ feeds:
     link_selector: ".fp-one-cita a"
     content_selector: "img.fp-one-imagen"
     max_items: 10
+
+  - id: wechat-jiege
+    type: wechat_sogou
+    wechat_id: xxjloveyuwen
+    title: 杰哥的精致语文（公众号）
+    link: https://weixin.sogou.com/weixin?type=2&query=xxjloveyuwen
+    description: 微信公众号 xxjloveyuwen（杰哥的精致语文）最新文章
+    max_items: 20
