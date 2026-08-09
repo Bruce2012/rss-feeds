@@ -42,6 +42,15 @@ DATE_FORMATS = [
     "%Y/%m/%d",
 ]
 
+SOGOU_HOST = "https://weixin.sogou.com"
+SOGOU_COOKIE = (
+    "SNUID=78725B470A0EF2C3F97AA5EB0BBF95C1; "
+    "ABTEST=0|1680917938|v1; "
+    "SUID=8F7B1C682B83A20A000000006430C5B2; "
+    "PHPSESSID=le2lak0vghad5c98ijd3t51ls4; "
+    "IPLOC=USUS5"
+)
+
 
 def log(message: str) -> None:
     print(message, file=sys.stderr)
@@ -95,7 +104,117 @@ def safe_guid(link: str | None, title: str, source_url: str) -> str:
     return f"tag:local,{digest}"
 
 
+def finalize_items(items: list[dict], max_items: int) -> list[dict]:
+    seen: set[str] = set()
+    unique_items = []
+    for item in items:
+        if item["guid"] in seen:
+            continue
+        seen.add(item["guid"])
+        unique_items.append(item)
+    unique_items.sort(
+        key=lambda item: item["pub_date"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc),
+        reverse=True,
+    )
+    return unique_items[:max_items]
+
+
+def parse_sogou_time(raw: str | None) -> dt.datetime | None:
+    if not raw:
+        return None
+    match = re.search(r"timeConvert\('(\d+)'\)", raw)
+    if not match:
+        return None
+    try:
+        return dt.datetime.fromtimestamp(int(match.group(1)), tz=dt.timezone.utc)
+    except (ValueError, OverflowError, OSError):
+        return None
+
+
+def resolve_wechat_link(session: requests.Session, sogou_link: str, search_url: str) -> str:
+    headers = {"User-Agent": USER_AGENT, "Referer": search_url, "Cookie": SOGOU_COOKIE}
+    try:
+        resp = session.get(sogou_link, headers=headers, allow_redirects=False, timeout=15)
+        location = resp.headers.get("Location")
+        if location and location.startswith(("http://mp.weixin.qq.com/", "https://mp.weixin.qq.com/")):
+            return location
+        if location:
+            if not location.startswith("http"):
+                location = urljoin(sogou_link, location)
+            resp2 = session.get(
+                location,
+                headers={**headers, "Referer": sogou_link},
+                allow_redirects=False,
+                timeout=15,
+            )
+            loc2 = resp2.headers.get("Location")
+            if loc2 and loc2.startswith(("http://mp.weixin.qq.com/", "https://mp.weixin.qq.com/")):
+                return loc2
+            return location
+    except requests.RequestException:
+        pass
+    return sogou_link
+
+
+def parse_wechat_sogou(source: dict, session: requests.Session) -> list[dict]:
+    wechat_id = source.get("wechat_id") or source.get("url")
+    if not wechat_id:
+        raise ValueError("wechat_sogou source requires wechat_id")
+    search_url = f"{SOGOU_HOST}/weixin"
+    params = {
+        "ie": "utf8",
+        "s_from": "input",
+        "_sug_": "n",
+        "_sug_type_": "1",
+        "type": "2",
+        "query": wechat_id,
+        "page": "1",
+    }
+    log(f"fetching WeChat account {wechat_id} via Sogou")
+    resp = session.get(
+        search_url,
+        params=params,
+        headers={"User-Agent": USER_AGENT, "Cookie": SOGOU_COOKIE},
+        timeout=source.get("timeout", 20),
+    )
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, "html.parser")
+
+    items: list[dict] = []
+    for li in soup.select("ul.news-list > li"):
+        anchor = li.select_one("h3 > a")
+        if not anchor or not anchor.get("href"):
+            continue
+        title = anchor.get_text(" ", strip=True)
+        if not title:
+            continue
+        sogou_link = urljoin(SOGOU_HOST, anchor["href"].strip())
+        real_link = resolve_wechat_link(session, sogou_link, search_url)
+        time_node = li.select_one("span.s2 script")
+        pub_date = parse_sogou_time(time_node.get_text() if time_node else None)
+        items.append(
+            {
+                "title": title,
+                "link": real_link or sogou_link,
+                "guid": real_link or sogou_link,
+                "pub_date": pub_date,
+                "content": node_html(li.select_one("p.txt-info")),
+                "author": node_text(li.select_one("span.all-time-y2")),
+            }
+        )
+
+    if not items:
+        page_text = soup.get_text()
+        if "验证码" in page_text or "antispider" in str(soup).lower():
+            raise ValueError("Sogou requires captcha, try again later")
+        raise ValueError(f"Sogou returned no items for {wechat_id}")
+    return finalize_items(items, int(source.get("max_items", 20)))
+
+
 def parse_source(source: dict, session: requests.Session) -> list[dict]:
+    if source.get("type") == "wechat_sogou":
+        return parse_wechat_sogou(source, session)
+
     url = source["url"]
     if not source.get("title_selector"):
         raise ValueError(f"{url}: missing title_selector")
@@ -135,25 +254,12 @@ def parse_source(source: dict, session: requests.Session) -> list[dict]:
         }
         items.append(item)
 
-    seen: set[str] = set()
-    unique_items = []
-    for item in items:
-        if item["guid"] in seen:
-            continue
-        seen.add(item["guid"])
-        unique_items.append(item)
-
-    unique_items.sort(
-        key=lambda item: item["pub_date"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc),
-        reverse=True,
-    )
-    max_items = int(source.get("max_items", 50))
-    return unique_items[:max_items]
+    return finalize_items(items, int(source.get("max_items", 50)))
 
 
 def render_feed(source: dict, items: list[dict], output_path: Path) -> None:
     title = source["title"]
-    link = source.get("link", source["url"])
+    link = source.get("link") or source.get("url") or ""
     description = source.get("description", "")
     language = source.get("language", "zh-CN")
     now = format_datetime(dt.datetime.now(dt.timezone.utc))
@@ -175,6 +281,8 @@ def render_feed(source: dict, items: list[dict], output_path: Path) -> None:
         lines.append(f"      <title>{escape(item['title'])}</title>")
         lines.append(f"      <link>{escape(item['link'])}</link>")
         lines.append(f"      <guid isPermaLink=\"true\">{escape(item['guid'])}</guid>")
+        if item.get("author"):
+            lines.append(f"      <author>{escape(item['author'])}</author>")
         if item["pub_date"]:
             pub_date = item["pub_date"]
             if pub_date.tzinfo is None:
