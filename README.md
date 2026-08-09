@@ -34,6 +34,21 @@ cp feeds.example.yaml feeds.yaml
 
 选择器获取方式：浏览器打开目标页面，在列表项标题上右键 -> 检查，在 Elements 面板右键该元素 -> Copy -> Copy selector，再复制到配置里。
 
+## 微信公众号
+
+微信公众平台没有官方 RSS，本项目通过搜狗微信搜索抓取公众号文章。配置时使用 `type: wechat_sogou`，用公众号 ID 作为 `wechat_id`，不需要写选择器：
+
+```yaml
+- id: my-wechat
+  type: wechat_sogou
+  wechat_id: xxjloveyuwen
+  title: 公众号名称
+  description: 公众号最新文章
+  max_items: 20
+```
+
+注意：搜狗偶发验证码，遇到时下一次定时任务会自动重试。
+
 ## 定时更新
 
 脚本每次运行都会重新抓取并覆盖输出文件，适合放进定时任务。
