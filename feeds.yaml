@@ -10,34 +10,27 @@ feeds:
     max_items: 30
 
   - id: one-article
+    type: wufazhuce_one
+    section: article
     title: ONE 每日一文
     link: https://wufazhuce.com/
     description: 一个 ONE 每日一文
-    url: https://wufazhuce.com/
-    item_selector: ".fp-one-articulo .one-articulo-titulo, .fp-one-articulo .pasado li"
-    title_selector: "a"
-    link_selector: "a"
     max_items: 10
 
   - id: one-question
+    type: wufazhuce_one
+    section: question
     title: ONE 每日一问
     link: https://wufazhuce.com/
     description: 一个 ONE 每日一问
-    url: https://wufazhuce.com/
-    item_selector: ".fp-one-cuestion .one-cuestion-titulo, .fp-one-cuestion .pasado li"
-    title_selector: "a"
-    link_selector: "a"
     max_items: 10
 
   - id: one-photo
+    type: wufazhuce_one
+    section: photo
     title: ONE 每日一图
     link: https://wufazhuce.com/
     description: 一个 ONE 每日一图与句子
-    url: https://wufazhuce.com/
-    item_selector: "#carousel-one .item"
-    title_selector: ".fp-one-cita a"
-    link_selector: ".fp-one-cita a"
-    content_selector: "img.fp-one-imagen"
     max_items: 10
 
   - id: wechat-jiege
