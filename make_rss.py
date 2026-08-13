@@ -51,6 +51,8 @@ SOGOU_COOKIE = (
     "IPLOC=USUS5"
 )
 
+ONE_SITE = "https://wufazhuce.com/"
+
 
 def log(message: str) -> None:
     print(message, file=sys.stderr)
@@ -156,6 +158,73 @@ def resolve_wechat_link(session: requests.Session, sogou_link: str, search_url: 
     return sogou_link
 
 
+def _one_vol(node: Tag | None) -> str | None:
+    if node is None:
+        return None
+    return node_text(node.select_one(".one-titulo, span.text-muted, .titulo"))
+
+
+def _parse_one_date(dom: str | None, may: str | None) -> dt.datetime | None:
+    if not dom or not may:
+        return None
+    try:
+        parsed = dt.datetime.strptime(f"{dom} {may}", "%d %b %Y")
+    except ValueError:
+        return None
+    # ONE 的日期是北京时间，直接按 +08:00 解析。
+    return parsed.replace(tzinfo=dt.timezone(dt.timedelta(hours=8)))
+
+
+def parse_wufazhuce_one(source: dict, session: requests.Session) -> list[dict]:
+    section = source.get("section", "article")
+    resp = session.get(ONE_SITE, headers={"User-Agent": USER_AGENT}, timeout=source.get("timeout", 20))
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, "html.parser")
+
+    # 每日一图轮播里包含 VOL 编号和日期，文章/问题按 VOL 取对应日期。
+    vol_dates: dict[str, dt.datetime] = {}
+    for item in soup.select("#carousel-one .item"):
+        vol = _one_vol(item)
+        date = _parse_one_date(node_text(item.select_one(".dom")), node_text(item.select_one(".may")))
+        if vol and date:
+            vol_dates[vol] = date
+
+    if section == "photo":
+        nodes = soup.select("#carousel-one .item")
+        title_sel = ".fp-one-cita a"
+        link_sel = ".fp-one-cita a"
+        content_sel = "img.fp-one-imagen"
+    elif section == "question":
+        nodes = soup.select(".fp-one-cuestion .corriente, .fp-one-cuestion .pasado li")
+        title_sel = "a"
+        link_sel = "a"
+        content_sel = None
+    else:
+        nodes = soup.select(".fp-one-articulo .corriente, .fp-one-articulo .pasado li")
+        title_sel = "a"
+        link_sel = "a"
+        content_sel = None
+
+    items: list[dict] = []
+    for node in nodes:
+        title_node = node.select_one(title_sel)
+        link_node = node.select_one(link_sel)
+        title = node_text(title_node) or node_text(link_node)
+        if not title:
+            continue
+        link = resolve_link(link_node or title_node, ONE_SITE)
+        items.append(
+            {
+                "title": title,
+                "link": link or ONE_SITE,
+                "guid": safe_guid(link, title, ONE_SITE),
+                "pub_date": vol_dates.get(_one_vol(node) or ""),
+                "content": node_html(node.select_one(content_sel)) if content_sel else None,
+            }
+        )
+    return finalize_items(items, int(source.get("max_items", 50)))
+
+
 def parse_wechat_sogou(source: dict, session: requests.Session) -> list[dict]:
     wechat_id = source.get("wechat_id") or source.get("url")
     if not wechat_id:
@@ -212,6 +281,8 @@ def parse_wechat_sogou(source: dict, session: requests.Session) -> list[dict]:
 
 
 def parse_source(source: dict, session: requests.Session) -> list[dict]:
+    if source.get("type") == "wufazhuce_one":
+        return parse_wufazhuce_one(source, session)
     if source.get("type") == "wechat_sogou":
         return parse_wechat_sogou(source, session)
 
