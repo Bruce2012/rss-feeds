@@ -34,6 +34,16 @@ cp feeds.example.yaml feeds.yaml
 
 选择器获取方式：浏览器打开目标页面，在列表项标题上右键 -> 检查，在 Elements 面板右键该元素 -> Copy -> Copy selector，再复制到配置里。
 
+「ONE · 一个」网站有专门配置，`section` 可选 `article`（每日一文）、`question`（每日一问）、`photo`（每日一图），会自动补充发布时间：
+
+```yaml
+- id: one-article
+  type: wufazhuce_one
+  section: article
+  title: ONE 每日一文
+  max_items: 10
+```
+
 ## 微信公众号
 
 微信公众平台没有官方 RSS，本项目通过搜狗微信搜索抓取公众号文章。配置时使用 `type: wechat_sogou`，用公众号 ID 作为 `wechat_id`，不需要写选择器：
