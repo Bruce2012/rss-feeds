@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 22 Aug 2026 20:21:13 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>面对动摇人生的不安，每个人的应对方法自然不尽相同。我想我也找到了属于自己的方法，那就是，至少我要获得一份能在六十五岁退休的工作。</title>
+      <link>http://wufazhuce.com/one/5227</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5227</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>各人头上一片天，每个人都认为自己头顶的太阳最猛烈，只不过别人不识货。</title>
+      <link>http://wufazhuce.com/one/5215</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5215</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我被一些媒体贴上“逆社会时钟”或“躺平”的标签，但我并不认可这些定义。我觉得自己只是为过上好日子而努力，但如果追求幸福也成了离经叛道，文化多样性反而成了“脱轨”，那大概是社会出了问题，而不能怪我。</title>
+      <link>http://wufazhuce.com/one/5212</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5212</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>快乐的日子、不快乐的日子：都是日子，没有哪一天比另一天更长。</title>
+      <link>http://wufazhuce.com/one/5206</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5206</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我一生不勉强人，人也不要勉强我。勉强的事是做不好的。</title>
+      <link>http://wufazhuce.com/one/5225</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5225</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我的生活需要这种熟悉的庸常，它能使我保持人的本质。</title>
+      <link>http://wufazhuce.com/one/5196</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5196</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>生活就是成本与收益之间的关系吗？我们不断掷出自己手中的筹码：精力、才能、青春，可能还有别的东西，指望在两手空空被围在哭泣的人群中间之前赢下一点什么。</title>
+      <link>http://wufazhuce.com/one/5222</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5222</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
