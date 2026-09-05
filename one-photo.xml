@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 05 Sep 2026 15:47:51 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>能够在困难里守住老本，便有翻身的机会。</title>
+      <link>http://wufazhuce.com/one/5216</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5216</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>自然不属于任何人：谁也无法圈住大海，握住风，将晚霞据为己有。</title>
+      <link>http://wufazhuce.com/one/5240</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5240</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>所谓回忆，就是不时将目光投向成为我们内心世界的那些人，然而这些人并不依赖于回忆而继续存在。</title>
+      <link>http://wufazhuce.com/one/5239</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5239</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>世事你不经它，你就摸不准它。世事就是俩字：福祸。俩字半边一样，半边不一样，就是说，俩字相互牵连着。</title>
+      <link>http://wufazhuce.com/one/5224</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5224</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>世界就是这样。有些人在中间，有些人在边上。要想让梦想生长，有所收获，就得有耐心。</title>
+      <link>http://wufazhuce.com/one/5235</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5235</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>没有对或错，好或坏，只有出生在轨道这边，和出生在轨道那边的人。</title>
+      <link>http://wufazhuce.com/one/5276</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5276</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>再怎么关心一个人，到了与之共同生活的时候，关系就会不自觉地改变。</title>
+      <link>http://wufazhuce.com/one/5221</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5221</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

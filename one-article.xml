@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 05 Sep 2026 15:47:51 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一封无法寄出的信 -</title>
+      <link>http://wufazhuce.com/article/7334</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7334</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>天麻 - 蔡淼</title>
+      <link>http://wufazhuce.com/article/7332</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7332</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>书霞 - 陈年喜</title>
+      <link>http://wufazhuce.com/article/7331</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7331</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>零或十 - 孟槿</title>
+      <link>http://wufazhuce.com/article/7330</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7330</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>野猪 - 暗鲸</title>
+      <link>http://wufazhuce.com/article/7329</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7329</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>好天气 - 卓与</title>
+      <link>http://wufazhuce.com/article/7322</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7322</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>直播时代 - 葫药</title>
+      <link>http://wufazhuce.com/article/7328</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7328</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
