@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 12 Sep 2026 21:14:18 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我就是我，会产生自己的思想，不会因其他要操心的事偏离自己的轨迹，只会追随交织在一起的欲望和梦想。没人能束缚我。</title>
+      <link>http://wufazhuce.com/one/5233</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5233</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“大家都穷成什么样子了。” “尿酸、血脂、胆固醇都正常了。” “脂肪肝自愈了。” “穷到治好了富贵病。”</title>
+      <link>http://wufazhuce.com/one/5231</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5231</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>成天皱着眉头，一副好像自己承受了全世界所有苦恼的样子，把简单的事情搞复杂，不仅让自己不自在，把老实人也搞得不自在。</title>
+      <link>http://wufazhuce.com/one/5229</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5229</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>感觉从小到大什么事都没有发生过，整个人生无非就是一幕幕生活场景、一首首歌的累积。</title>
+      <link>http://wufazhuce.com/one/5251</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5251</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在生活平静时，我会心生恐惧，如履薄冰，因为不知道接下来会有什么样的考验等着我。 因为啊，生活就是个脾气古怪的人，见不得别人好，动不动就给你使绊子，让你猝不及防，防不胜防。</title>
+      <link>http://wufazhuce.com/one/5250</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5250</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>生活在别处，不熟悉的一切是每一天的挑战。我们选择抗拒和怨恨，还是包容和好奇，会决定我们的生活体验。</title>
+      <link>http://wufazhuce.com/one/5247</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5247</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>爱，本该是允许根系自由伸展的土壤，如今却变成了模具，要求孩子严丝合缝地长成他们期望的样子。而大人们把这称为“为你好”。</title>
+      <link>http://wufazhuce.com/one/5245</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5245</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

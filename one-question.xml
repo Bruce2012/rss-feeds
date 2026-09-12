@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一问</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一问</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 12 Sep 2026 21:14:18 +0000</lastBuildDate>
+    <atom:link href="public/one-question.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>你做过的最棒的决定是什么？</title>
+      <link>http://wufazhuce.com/question/4697</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4697</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在秋冬，我们可以做哪些提升幸福感的小事？</title>
+      <link>http://wufazhuce.com/question/4696</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4696</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>哪些信号会告诉你，这份工作不能久做？</title>
+      <link>http://wufazhuce.com/question/4695</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4695</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>追求钱和追求知识的区别是什么？</title>
+      <link>http://wufazhuce.com/question/4694</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4694</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>后来再听到“毕业”“开学”，你会想起什么？</title>
+      <link>http://wufazhuce.com/question/4693</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4693</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>成年人潜规则，哪一条你至今不愿接受？</title>
+      <link>http://wufazhuce.com/question/4692</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4692</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>你会用哪句话，来描述这个夏天？</title>
+      <link>http://wufazhuce.com/question/4691</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4691</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
