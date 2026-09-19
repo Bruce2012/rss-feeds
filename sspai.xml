@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 16:14:38 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>本周看什么 | 最近值得一看的 9 部作品</title>
+      <link>https://sspai.com/post/114716</link>
+      <guid isPermaLink="true">https://sspai.com/post/114716</guid>
+    </item>
+    <item>
+      <title>你的脸红是什么红：了解玫瑰痤疮</title>
+      <link>https://sspai.com/post/114641</link>
+      <guid isPermaLink="true">https://sspai.com/post/114641</guid>
+    </item>
+    <item>
+      <title>8月音乐精选：有限的生命里，要听得再任性一点！</title>
+      <link>https://sspai.com/post/114555</link>
+      <guid isPermaLink="true">https://sspai.com/post/114555</guid>
+    </item>
+    <item>
+      <title>具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……</title>
+      <link>https://sspai.com/post/114670</link>
+      <guid isPermaLink="true">https://sspai.com/post/114670</guid>
+    </item>
+    <item>
+      <title>让 Agent 读懂你的身体：数据获取篇</title>
+      <link>https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis</link>
+      <guid isPermaLink="true">https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis</guid>
+    </item>
+    <item>
+      <title>快速投票：换机只选 512GB 起步？</title>
+      <link>https://sspai.com/bullet/1789222518</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1789222518</guid>
+    </item>
+    <item>
+      <title>派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等</title>
+      <link>https://sspai.com/post/114699</link>
+      <guid isPermaLink="true">https://sspai.com/post/114699</guid>
+    </item>
+    <item>
+      <title>城市漫步指南｜威海初秋，看海玩沙</title>
+      <link>https://sspai.com/post/114557</link>
+      <guid isPermaLink="true">https://sspai.com/post/114557</guid>
+    </item>
+    <item>
+      <title>具透 | macOS 27 正式版来了，这些是你值得了解新细节</title>
+      <link>https://sspai.com/post/114643</link>
+      <guid isPermaLink="true">https://sspai.com/post/114643</guid>
+    </item>
+    <item>
+      <title>一个小创意的诞生：BeatBox 雪漫天外壳定制指南</title>
+      <link>https://sspai.com/post/114451</link>
+      <guid isPermaLink="true">https://sspai.com/post/114451</guid>
+    </item>
+    <item>
+      <title>派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等</title>
+      <link>https://sspai.com/post/114658</link>
+      <guid isPermaLink="true">https://sspai.com/post/114658</guid>
+    </item>
+  </channel>
+</rss>

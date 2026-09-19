@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 16:14:39 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>“土地”愿不愿意 - Freelaned</title>
+      <link>http://wufazhuce.com/article/7343</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7343</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>她遇见她 - 肖爻悄悄</title>
+      <link>http://wufazhuce.com/article/7341</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7341</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>漫漫人生打工路 - 何光燕</title>
+      <link>http://wufazhuce.com/article/7340</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7340</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>曼谷爱神 - 索莫</title>
+      <link>http://wufazhuce.com/article/7339</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7339</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>彩色旋涡 - 吴明芳</title>
+      <link>http://wufazhuce.com/article/7337</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7337</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>无意伪装 - 怪物不二</title>
+      <link>http://wufazhuce.com/article/7338</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7338</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>如果我们一直无人陪伴 - 周宏翔</title>
+      <link>http://wufazhuce.com/article/7333</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7333</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

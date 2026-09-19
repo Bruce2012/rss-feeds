@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 16:14:40 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>得以存在便是一个奇迹，能够思考就是一件乐事。</title>
+      <link>http://wufazhuce.com/one/5263</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5263</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我不想工作，我不想枯等，我什么都不想做，我什么都想要。</title>
+      <link>http://wufazhuce.com/one/5259</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5259</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>对于穷人来说，所有能省到钱的事都是好事。</title>
+      <link>http://wufazhuce.com/one/5255</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5255</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>扮演一个潇洒的人，比真的做那样的人辛苦多了。</title>
+      <link>http://wufazhuce.com/one/5254</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5254</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>请你牢牢记住，活下去的秘诀就是敞开双臂拥抱改变，并随之自我调整。</title>
+      <link>http://wufazhuce.com/one/5236</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5236</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>被骗的人通常不一定因为愚昧或无知，只不过，因为信任。信任永远是一种选择。</title>
+      <link>http://wufazhuce.com/one/5217</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5217</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我就是我，会产生自己的思想，不会因其他要操心的事偏离自己的轨迹，只会追随交织在一起的欲望和梦想。没人能束缚我。</title>
+      <link>http://wufazhuce.com/one/5233</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5233</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
