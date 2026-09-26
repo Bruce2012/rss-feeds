@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 26 Sep 2026 21:51:29 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>定位爱人 -</title>
+      <link>http://wufazhuce.com/article/7347</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7347</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>火山日出 - 李濛</title>
+      <link>http://wufazhuce.com/article/7346</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7346</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>黑白 - 阿亮</title>
+      <link>http://wufazhuce.com/article/7344</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7344</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我的妻子 - 蚊子</title>
+      <link>http://wufazhuce.com/article/7345</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7345</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>出泥 - 刘皓</title>
+      <link>http://wufazhuce.com/article/7342</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7342</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“土地”愿不愿意 - Freelaned</title>
+      <link>http://wufazhuce.com/article/7343</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7343</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>她遇见她 - 肖爻悄悄</title>
+      <link>http://wufazhuce.com/article/7341</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7341</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
