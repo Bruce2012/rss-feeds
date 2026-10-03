@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 03 Oct 2026 20:38:22 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>敌人 - 张明晟</title>
+      <link>http://wufazhuce.com/article/7351</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7351</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>积分常数 - 刘昭汐</title>
+      <link>http://wufazhuce.com/article/7350</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7350</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>葵花 - 蔡淼</title>
+      <link>http://wufazhuce.com/article/7352</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7352</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>到了没有 - 长期新</title>
+      <link>http://wufazhuce.com/article/7349</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7349</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>美涯无事发生 - 程皎旸</title>
+      <link>http://wufazhuce.com/article/7348</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7348</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>定位爱人 -</title>
+      <link>http://wufazhuce.com/article/7347</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7347</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>火山日出 - 李濛</title>
+      <link>http://wufazhuce.com/article/7346</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7346</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

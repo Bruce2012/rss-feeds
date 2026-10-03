@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 03 Oct 2026 20:38:23 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>必须说出来才能“让事情过去”。</title>
+      <link>http://wufazhuce.com/one/5253</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5253</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>哪怕拼尽全力，你还是会犯很多错。</title>
+      <link>http://wufazhuce.com/one/5281</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5281</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一旦我们自己成了那些受苦受难的故事中的主人公，故事就一点儿意思也没有了。</title>
+      <link>http://wufazhuce.com/one/5237</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5237</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人有两种敬畏：一个是头顶无限的星空，另一个是内心无限的思想。</title>
+      <link>http://wufazhuce.com/one/5277</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5277</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>做噩梦其实不是坏事。噩梦让我们能想象最糟的状况，我想这就是噩梦的意义。</title>
+      <link>http://wufazhuce.com/one/5275</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5275</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>命运的刀，并不会放过赤手空拳的人，能救命的，也绝不是泪水与哀求。</title>
+      <link>http://wufazhuce.com/one/5274</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5274</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在江湖生存是一种技能。保命的方式是证明自己活干得好，工作是以上司为观众的表演。</title>
+      <link>http://wufazhuce.com/one/5248</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5248</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

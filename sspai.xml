@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 03 Oct 2026 20:38:21 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验</title>
+      <link>https://sspai.com/post/114922</link>
+      <guid isPermaLink="true">https://sspai.com/post/114922</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 8 部作品</title>
+      <link>https://sspai.com/post/115211</link>
+      <guid isPermaLink="true">https://sspai.com/post/115211</guid>
+    </item>
+    <item>
+      <title>从玩家的世界掠过：Bungie 的「列车」如何驶向终焉</title>
+      <link>https://sspai.com/post/115070</link>
+      <guid isPermaLink="true">https://sspai.com/post/115070</guid>
+    </item>
+    <item>
+      <title>经典任务管理软件的现代重构：新版 2Do 详解</title>
+      <link>https://sspai.com/post/115166</link>
+      <guid isPermaLink="true">https://sspai.com/post/115166</guid>
+    </item>
+    <item>
+      <title>别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的</title>
+      <link>https://sspai.com/post/114945</link>
+      <guid isPermaLink="true">https://sspai.com/post/114945</guid>
+    </item>
+    <item>
+      <title>派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等</title>
+      <link>https://sspai.com/post/115197</link>
+      <guid isPermaLink="true">https://sspai.com/post/115197</guid>
+    </item>
+    <item>
+      <title>聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？</title>
+      <link>https://sspai.com/bullet/1790146393</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1790146393</guid>
+    </item>
+    <item>
+      <title>社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单</title>
+      <link>https://sspai.com/post/115153</link>
+      <guid isPermaLink="true">https://sspai.com/post/115153</guid>
+    </item>
+    <item>
+      <title>更懂你的心，也更懂你：Apple Watch Series 12 体验</title>
+      <link>https://sspai.com/post/115061</link>
+      <guid isPermaLink="true">https://sspai.com/post/115061</guid>
+    </item>
+    <item>
+      <title>可塑的白昼：ColorOS17 深度评测</title>
+      <link>https://sspai.com/post/114728</link>
+      <guid isPermaLink="true">https://sspai.com/post/114728</guid>
+    </item>
+    <item>
+      <title>派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等</title>
+      <link>https://sspai.com/post/115134</link>
+      <guid isPermaLink="true">https://sspai.com/post/115134</guid>
+    </item>
+  </channel>
+</rss>
