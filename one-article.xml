@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 10 Oct 2026 19:47:58 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>好想成为一只鸡腿 - 朱苑清</title>
+      <link>http://wufazhuce.com/article/7355</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7355</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雪落无声 -</title>
+      <link>http://wufazhuce.com/article/7353</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7353</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>以孤独为食 - 杜素娟</title>
+      <link>http://wufazhuce.com/article/7356</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7356</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>非古典爱情 - 贺贞喜</title>
+      <link>http://wufazhuce.com/article/7354</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7354</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>敌人 - 张明晟</title>
+      <link>http://wufazhuce.com/article/7351</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7351</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>积分常数 - 刘昭汐</title>
+      <link>http://wufazhuce.com/article/7350</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7350</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>葵花 - 蔡淼</title>
+      <link>http://wufazhuce.com/article/7352</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7352</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

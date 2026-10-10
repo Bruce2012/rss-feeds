@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 10 Oct 2026 19:47:57 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>App+1｜专注星空：让「少刷手机」这件事更愉悦一点</title>
+      <link>https://sspai.com/post/115237</link>
+      <guid isPermaLink="true">https://sspai.com/post/115237</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 11 部作品</title>
+      <link>https://sspai.com/post/115566</link>
+      <guid isPermaLink="true">https://sspai.com/post/115566</guid>
+    </item>
+    <item>
+      <title>vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧</title>
+      <link>https://sspai.com/post/115456</link>
+      <guid isPermaLink="true">https://sspai.com/post/115456</guid>
+    </item>
+    <item>
+      <title>App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts</title>
+      <link>https://sspai.com/post/114869</link>
+      <guid isPermaLink="true">https://sspai.com/post/114869</guid>
+    </item>
+    <item>
+      <title>派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等</title>
+      <link>https://sspai.com/post/115532</link>
+      <guid isPermaLink="true">https://sspai.com/post/115532</guid>
+    </item>
+    <item>
+      <title>行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？</title>
+      <link>https://sspai.com/bullet/1791445045</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1791445045</guid>
+    </item>
+    <item>
+      <title>iPhone Duo：苹果，终究还是对强迫症下手了</title>
+      <link>https://sspai.com/post/115282</link>
+      <guid isPermaLink="true">https://sspai.com/post/115282</guid>
+    </item>
+    <item>
+      <title>从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole</title>
+      <link>https://sspai.com/post/113843</link>
+      <guid isPermaLink="true">https://sspai.com/post/113843</guid>
+    </item>
+    <item>
+      <title>扔掉的是杂念，掌控的是生活：我的断舍离实践经验</title>
+      <link>https://sspai.com/post/115209</link>
+      <guid isPermaLink="true">https://sspai.com/post/115209</guid>
+    </item>
+    <item>
+      <title>App Store 生态规模五年翻倍，助力中国开发者走向全球</title>
+      <link>https://sspai.com/post/115462</link>
+      <guid isPermaLink="true">https://sspai.com/post/115462</guid>
+    </item>
+    <item>
+      <title>派早报：微软发布 Windows 相关新品、Google AI 新闻两则等</title>
+      <link>https://sspai.com/post/115455</link>
+      <guid isPermaLink="true">https://sspai.com/post/115455</guid>
+    </item>
+  </channel>
+</rss>

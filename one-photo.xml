@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 10 Oct 2026 19:47:58 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>无论是过去还是未来，我们都无法改变，只能更深刻地理解它们。</title>
+      <link>http://wufazhuce.com/one/5264</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5264</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>对我来说“过度”带来的不是自由，而是不适和疲劳。</title>
+      <link>http://wufazhuce.com/one/5288</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5288</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>风的心思，云知；云的心思，雨知；雨的心思，树知；天的心思，地知；人的心思，天知地知。</title>
+      <link>http://wufazhuce.com/one/5286</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5286</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>生活本就重复且乏味，我们看似有着绝对的自主权，却无法真正决定自己要吃什么。如何与食物平和相处，获取内心的安定，是这个时代里很难解答的命题。</title>
+      <link>http://wufazhuce.com/one/5284</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5284</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>每天重复的事情做多了，人就不用思考了，记忆力也随之变得很差，有时连朋友的姓名都会忘记。</title>
+      <link>http://wufazhuce.com/one/5256</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5256</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>把“我打算如何”转变为“我做了什么”，乃是成长的准则。</title>
+      <link>http://wufazhuce.com/one/5260</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5260</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>必须说出来才能“让事情过去”。</title>
+      <link>http://wufazhuce.com/one/5253</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5253</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
