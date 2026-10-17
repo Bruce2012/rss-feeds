@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 17 Oct 2026 21:14:47 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>假性散光 - 刘梦如</title>
+      <link>http://wufazhuce.com/article/7361</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7361</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>大风吹 - 林鹿</title>
+      <link>http://wufazhuce.com/article/7360</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7360</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>这世界上的好消息 - 胡布</title>
+      <link>http://wufazhuce.com/article/7359</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7359</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>爱似脐带缠绕 - 栾释忆</title>
+      <link>http://wufazhuce.com/article/7357</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7357</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>枪与褪色制服 -</title>
+      <link>http://wufazhuce.com/article/7358</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7358</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>好想成为一只鸡腿 - 朱苑清</title>
+      <link>http://wufazhuce.com/article/7355</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7355</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雪落无声 -</title>
+      <link>http://wufazhuce.com/article/7353</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7353</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

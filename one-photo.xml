@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 17 Oct 2026 21:14:47 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我无法让自己满意。我总是感到空虚，仿佛自己是个没有底的容器，既装不下路过我的世界的一切，也装不下自己……</title>
+      <link>http://wufazhuce.com/one/5305</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5305</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>据说真正的爱情，不是因为对方能带给你什么，而是因为你就是欣赏他的美好。</title>
+      <link>http://wufazhuce.com/one/5243</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5243</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我不想成为任何东西的象征。我只做我自己。</title>
+      <link>http://wufazhuce.com/one/5270</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5270</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在适合的时候努力，比较重要。</title>
+      <link>http://wufazhuce.com/one/5302</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5302</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>思念，的确是另一种形式的忧郁或焦虑。</title>
+      <link>http://wufazhuce.com/one/5300</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5300</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>去阅读，去学习，去查阅资料。 信息能够带来掌控。</title>
+      <link>http://wufazhuce.com/one/5298</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5298</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人大概到最后才会懂得，重要的不是“要什么”而是“不要什么”。</title>
+      <link>http://wufazhuce.com/one/5294</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5294</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
