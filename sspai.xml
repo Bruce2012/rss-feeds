@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 24 Oct 2026 14:16:00 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>在硅谷，遇见个人计算机历史</title>
+      <link>https://sspai.com/post/116128</link>
+      <guid isPermaLink="true">https://sspai.com/post/116128</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 12 部作品</title>
+      <link>https://sspai.com/post/117169</link>
+      <guid isPermaLink="true">https://sspai.com/post/117169</guid>
+    </item>
+    <item>
+      <title>TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验</title>
+      <link>https://sspai.com/post/116398</link>
+      <guid isPermaLink="true">https://sspai.com/post/116398</guid>
+    </item>
+    <item>
+      <title>破与立：设计视角下的 iPhone Duo</title>
+      <link>https://sspai.com/post/116979</link>
+      <guid isPermaLink="true">https://sspai.com/post/116979</guid>
+    </item>
+    <item>
+      <title>派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等</title>
+      <link>https://sspai.com/post/117104</link>
+      <guid isPermaLink="true">https://sspai.com/post/117104</guid>
+    </item>
+    <item>
+      <title>双十一买自己不懂的品类，你会让 AI 替你做决策吗？</title>
+      <link>https://sspai.com/bullet/1792398838</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1792398838</guid>
+    </item>
+    <item>
+      <title>把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长</title>
+      <link>https://sspai.com/post/115437</link>
+      <guid isPermaLink="true">https://sspai.com/post/115437</guid>
+    </item>
+    <item>
+      <title>前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本</title>
+      <link>https://sspai.com/post/116923</link>
+      <guid isPermaLink="true">https://sspai.com/post/116923</guid>
+    </item>
+    <item>
+      <title>终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记</title>
+      <link>https://sspai.com/post/115090</link>
+      <guid isPermaLink="true">https://sspai.com/post/115090</guid>
+    </item>
+    <item>
+      <title>派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等</title>
+      <link>https://sspai.com/post/116953</link>
+      <guid isPermaLink="true">https://sspai.com/post/116953</guid>
+    </item>
+    <item>
+      <title>社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备</title>
+      <link>https://sspai.com/post/116820</link>
+      <guid isPermaLink="true">https://sspai.com/post/116820</guid>
+    </item>
+  </channel>
+</rss>
