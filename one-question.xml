@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一问</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一问</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 31 Oct 2026 18:12:39 +0000</lastBuildDate>
+    <atom:link href="public/one-question.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一周的心情｜本周小记精选</title>
+      <link>http://wufazhuce.com/question/4716</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4716</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>你最大的遗憾，是没做什么，还是做了什么？</title>
+      <link>http://wufazhuce.com/question/4715</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4715</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>哪些话，你想说却一直没有说出口？</title>
+      <link>http://wufazhuce.com/question/4714</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4714</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一周的心情｜本周小记精选</title>
+      <link>http://wufazhuce.com/question/4713</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4713</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>你最近一次为自己骄傲，是因为什么？</title>
+      <link>http://wufazhuce.com/question/4712</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4712</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>写作，为什么是你表达自己的方式？</title>
+      <link>http://wufazhuce.com/question/4711</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4711</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>假期结束后，你有哪些戒断反应？</title>
+      <link>http://wufazhuce.com/question/4710</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4710</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 31 Oct 2026 18:12:40 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>任何一个曾在网上冲浪这件事上浪费过时间的人都会知道，科技可以助长不良习惯。</title>
+      <link>http://wufazhuce.com/one/5265</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5265</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>孤独不是负面体验，更不是对我们情感的伤害，孤独是一个天赐良机。</title>
+      <link>http://wufazhuce.com/one/5308</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5308</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>爱就是宇宙触碰到一个人的内心，在其中爆炸，而那个人又爆炸成宇宙。</title>
+      <link>http://wufazhuce.com/one/5268</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5268</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在许多日子里，唯一适合表达我感受的方式就是一声尖叫。</title>
+      <link>http://wufazhuce.com/one/5289</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5289</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>童年安稳，人的老年就安稳。因为他有一个温暖的枕头，童年就是温暖的枕头。</title>
+      <link>http://wufazhuce.com/one/5287</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5287</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>过分依赖标签，多半会让人变得武断。</title>
+      <link>http://wufazhuce.com/one/5285</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5285</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我喜欢这个国家的大，大到能够让自己在其中消失，在上千里的铁路上漂泊。我不带任何目的或需求，迎接路上所有的偶遇。</title>
+      <link>http://wufazhuce.com/one/5249</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5249</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
