@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Nov 2026 08:22:53 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>本周看什么 | 最近值得一看的 9 部作品</title>
+      <link>https://sspai.com/post/118623</link>
+      <guid isPermaLink="true">https://sspai.com/post/118623</guid>
+    </item>
+    <item>
+      <title>iPhone 变强了，但我没有</title>
+      <link>https://sspai.com/post/118250</link>
+      <guid isPermaLink="true">https://sspai.com/post/118250</guid>
+    </item>
+    <item>
+      <title>更高能效比，带来新惊喜：M6 款 MacBook Pro 初探</title>
+      <link>https://sspai.com/post/118570</link>
+      <guid isPermaLink="true">https://sspai.com/post/118570</guid>
+    </item>
+    <item>
+      <title>派早报：国务院办公厅发布 2027 年部分节假日放假安排等</title>
+      <link>https://sspai.com/post/118587</link>
+      <guid isPermaLink="true">https://sspai.com/post/118587</guid>
+    </item>
+    <item>
+      <title>开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验</title>
+      <link>https://sspai.com/post/118546</link>
+      <guid isPermaLink="true">https://sspai.com/post/118546</guid>
+    </item>
+    <item>
+      <title>新玩意 255｜少数派的编辑们最近买了啥？</title>
+      <link>https://sspai.com/post/118541</link>
+      <guid isPermaLink="true">https://sspai.com/post/118541</guid>
+    </item>
+    <item>
+      <title>十月买了什么好东西？</title>
+      <link>https://sspai.com/bullet/1792994679</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1792994679</guid>
+    </item>
+    <item>
+      <title>不用困在厨房也能做出好饭：三十道省事家常蒸菜</title>
+      <link>https://sspai.com/prime/story/30-easy-steamed-dishes</link>
+      <guid isPermaLink="true">https://sspai.com/prime/story/30-easy-steamed-dishes</guid>
+    </item>
+    <item>
+      <title>Apple 官网排版细节鉴赏</title>
+      <link>https://sspai.com/post/115399</link>
+      <guid isPermaLink="true">https://sspai.com/post/115399</guid>
+    </item>
+    <item>
+      <title>派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等</title>
+      <link>https://sspai.com/post/118498</link>
+      <guid isPermaLink="true">https://sspai.com/post/118498</guid>
+    </item>
+    <item>
+      <title>你不知道的客户端开发：AI 时代下的选型、原生与借力</title>
+      <link>https://sspai.com/post/117713</link>
+      <guid isPermaLink="true">https://sspai.com/post/117713</guid>
+    </item>
+  </channel>
+</rss>

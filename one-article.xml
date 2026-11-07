@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Nov 2026 08:22:54 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>欠薪 - 语冰</title>
+      <link>http://wufazhuce.com/article/7381</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7381</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>稻草人 - 蔡淼</title>
+      <link>http://wufazhuce.com/article/7373</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7373</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>夜神的礼物 - 陈小手</title>
+      <link>http://wufazhuce.com/article/7377</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7377</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>红绿灯 - 马路</title>
+      <link>http://wufazhuce.com/article/7372</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7372</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>白色公寓 - 程皎旸</title>
+      <link>http://wufazhuce.com/article/7376</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7376</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>熬 -</title>
+      <link>http://wufazhuce.com/article/7375</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7375</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>回忆母亲 - 陆庆屹</title>
+      <link>http://wufazhuce.com/article/7370</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7370</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

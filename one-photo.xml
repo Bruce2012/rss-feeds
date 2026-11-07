@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Nov 2026 08:22:54 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一个城市不能只去一次，如果不在那里有过生活，你就没有真相。</title>
+      <link>http://wufazhuce.com/one/5307</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5307</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>表达欲流失是打工人共同的症候。</title>
+      <link>http://wufazhuce.com/one/5303</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5303</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人生很多滋味都要到一个年纪才能懂得去细细品味，比如类似这种相濡以沫的感动和幸福，然而当你一旦懂了，一切却都已经远了。</title>
+      <link>http://wufazhuce.com/one/5301</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5301</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>花环会变黑，地壳板块会移动，深层洋流会涌动，岛屿会消失，房间会被遗忘。</title>
+      <link>http://wufazhuce.com/one/5299</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5299</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>爱就应该给对方海阔天空的自由，然后让他愿意回来，喜欢回来。不仅是爱情，父母对子女也是如此。</title>
+      <link>http://wufazhuce.com/one/5295</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5295</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人毕竟是社会动物，还是想和人一起待着。哪怕只是一起演一场剧本杀，能坐在桌前，扮演一个角色，念台词，假装有感情，戏散了随时离场，也好过总是一个人。</title>
+      <link>http://wufazhuce.com/one/5292</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5292</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>细想起来，我的命运就是由这样一个又一个偶然串联起来的，每个偶然都是一个转折的节点，只是处在那个节点当中，我并不知道自己的人生将会被改写。</title>
+      <link>http://wufazhuce.com/one/5310</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5310</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
