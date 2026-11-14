@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一图</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一图与句子</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 14 Nov 2026 19:43:35 +0000</lastBuildDate>
+    <atom:link href="public/one-photo.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>柔软，放松，不那么紧绷、发力、苛求和顽劣。</title>
+      <link>http://wufazhuce.com/one/5321</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5321</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>记住，方法是人创造的，而不是方法创造人，所以不要把自己束缚、扭曲在别人预想的模式之中。</title>
+      <link>http://wufazhuce.com/one/5318</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5318</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>劳动是他们保持尊严和体面的手段，也是我的。</title>
+      <link>http://wufazhuce.com/one/5257</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5257</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人不是完全活在当下，你有很多延伸在古代里面，也延伸在未来，是一个纵深的、完整的人。</title>
+      <link>http://wufazhuce.com/one/5279</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5279</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>焰火是人世间最短暂又最光华的生命，欣赏它的辉煌时，就免不了为它瞬间的寂灭而哀叹。</title>
+      <link>http://wufazhuce.com/one/5315</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5315</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>关于生活我觉得，没有那么多对错可言。我们能够做的是试图去理解：为什么会是这样？</title>
+      <link>http://wufazhuce.com/one/5313</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5313</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我拼命稳住情绪，不让任何人发现异状。这真的太难了。</title>
+      <link>http://wufazhuce.com/one/5283</link>
+      <guid isPermaLink="true">http://wufazhuce.com/one/5283</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

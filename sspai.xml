@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 14 Nov 2026 19:43:33 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA</title>
+      <link>https://sspai.com/post/118276</link>
+      <guid isPermaLink="true">https://sspai.com/post/118276</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/118999</link>
+      <guid isPermaLink="true">https://sspai.com/post/118999</guid>
+    </item>
+    <item>
+      <title>研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验</title>
+      <link>https://sspai.com/post/118153</link>
+      <guid isPermaLink="true">https://sspai.com/post/118153</guid>
+    </item>
+    <item>
+      <title>在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？</title>
+      <link>https://sspai.com/post/118512</link>
+      <guid isPermaLink="true">https://sspai.com/post/118512</guid>
+    </item>
+    <item>
+      <title>派早报：英伟达 CEO 黄仁勋宣布辞职等</title>
+      <link>https://sspai.com/post/118966</link>
+      <guid isPermaLink="true">https://sspai.com/post/118966</guid>
+    </item>
+    <item>
+      <title>当主力机与电脑不同系统，如何优雅实现「跨设备协同」？</title>
+      <link>https://sspai.com/bullet/1794216547</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1794216547</guid>
+    </item>
+    <item>
+      <title>城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好</title>
+      <link>https://sspai.com/post/118366</link>
+      <guid isPermaLink="true">https://sspai.com/post/118366</guid>
+    </item>
+    <item>
+      <title>Mac 选购指南 2026 冬季版</title>
+      <link>https://sspai.com/post/85735</link>
+      <guid isPermaLink="true">https://sspai.com/post/85735</guid>
+    </item>
+    <item>
+      <title>让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验</title>
+      <link>https://sspai.com/post/118921</link>
+      <guid isPermaLink="true">https://sspai.com/post/118921</guid>
+    </item>
+    <item>
+      <title>派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等</title>
+      <link>https://sspai.com/post/118935</link>
+      <guid isPermaLink="true">https://sspai.com/post/118935</guid>
+    </item>
+    <item>
+      <title>十月买了什么好东西？</title>
+      <link>https://sspai.com/bullet/1792994679</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1792994679</guid>
+    </item>
+    <item>
+      <title>城市漫步指南 | 安特卫普，时尚就在生活中</title>
+      <link>https://sspai.com/post/118781</link>
+      <guid isPermaLink="true">https://sspai.com/post/118781</guid>
+    </item>
+  </channel>
+</rss>
