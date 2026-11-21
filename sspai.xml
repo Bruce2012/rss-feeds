@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 21 Nov 2026 12:08:58 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>这群在鸿蒙写应用的年轻人，只想做点「用得上」的</title>
+      <link>https://sspai.com/post/119291</link>
+      <guid isPermaLink="true">https://sspai.com/post/119291</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/119337</link>
+      <guid isPermaLink="true">https://sspai.com/post/119337</guid>
+    </item>
+    <item>
+      <title>游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验</title>
+      <link>https://sspai.com/post/119327</link>
+      <guid isPermaLink="true">https://sspai.com/post/119327</guid>
+    </item>
+    <item>
+      <title>浮屏：截图即可「上岛」，还能帮你记录生活</title>
+      <link>https://sspai.com/post/118879</link>
+      <guid isPermaLink="true">https://sspai.com/post/118879</guid>
+    </item>
+    <item>
+      <title>双十一收官一周：今年哪笔消费让你在拆箱后立刻「退烧」？</title>
+      <link>https://sspai.com/bullet/1794893309</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1794893309</guid>
+    </item>
+    <item>
+      <title>派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等</title>
+      <link>https://sspai.com/post/119311</link>
+      <guid isPermaLink="true">https://sspai.com/post/119311</guid>
+    </item>
+    <item>
+      <title>给 Apple 的 2026 年打分，请你一起参与</title>
+      <link>https://sspai.com/post/119191</link>
+      <guid isPermaLink="true">https://sspai.com/post/119191</guid>
+    </item>
+    <item>
+      <title>新玩意 256｜少数派的编辑们最近买了啥？</title>
+      <link>https://sspai.com/post/119287</link>
+      <guid isPermaLink="true">https://sspai.com/post/119287</guid>
+    </item>
+    <item>
+      <title>有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制</title>
+      <link>https://sspai.com/prime/story/system-app-protection-override-macos-27-3</link>
+      <guid isPermaLink="true">https://sspai.com/prime/story/system-app-protection-override-macos-27-3</guid>
+    </item>
+    <item>
+      <title>当主力机与电脑不同系统，如何优雅实现「跨设备协同」？</title>
+      <link>https://sspai.com/bullet/1794216547</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1794216547</guid>
+    </item>
+    <item>
+      <title>徒步旅行指南 | 玉龙虎跳峡与天堂雨崩</title>
+      <link>https://sspai.com/post/119039</link>
+      <guid isPermaLink="true">https://sspai.com/post/119039</guid>
+    </item>
+    <item>
+      <title>派早报：Apple 年度应用、TGA 2026 分别公布入围名单等</title>
+      <link>https://sspai.com/post/119239</link>
+      <guid isPermaLink="true">https://sspai.com/post/119239</guid>
+    </item>
+  </channel>
+</rss>
