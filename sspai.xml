@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>少数派首页</title>
+    <link>https://sspai.com/</link>
+    <description>少数派首页推荐文章</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 23:25:56 +0000</lastBuildDate>
+    <atom:link href="public/sspai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>派评 | 近期值得关注的 App</title>
+      <link>https://sspai.com/post/119438</link>
+      <guid isPermaLink="true">https://sspai.com/post/119438</guid>
+    </item>
+    <item>
+      <title>怪手机们要回来了吗？</title>
+      <link>https://sspai.com/prime/story/weird-phones-are-returning</link>
+      <guid isPermaLink="true">https://sspai.com/prime/story/weird-phones-are-returning</guid>
+    </item>
+    <item>
+      <title>养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验</title>
+      <link>https://sspai.com/post/119023</link>
+      <guid isPermaLink="true">https://sspai.com/post/119023</guid>
+    </item>
+    <item>
+      <title>新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」</title>
+      <link>https://sspai.com/post/118705</link>
+      <guid isPermaLink="true">https://sspai.com/post/118705</guid>
+    </item>
+    <item>
+      <title>派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想</title>
+      <link>https://sspai.com/post/119418</link>
+      <guid isPermaLink="true">https://sspai.com/post/119418</guid>
+    </item>
+    <item>
+      <title>双十一收官一周：今年哪笔消费让你在拆箱后立刻「退烧」？</title>
+      <link>https://sspai.com/bullet/1794893309</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1794893309</guid>
+    </item>
+    <item>
+      <title>从深圳到上海，少数派的共创故事还在继续</title>
+      <link>https://sspai.com/post/119318</link>
+      <guid isPermaLink="true">https://sspai.com/post/119318</guid>
+    </item>
+    <item>
+      <title>这群在鸿蒙写应用的年轻人，只想做点「用得上」的</title>
+      <link>https://sspai.com/post/119291</link>
+      <guid isPermaLink="true">https://sspai.com/post/119291</guid>
+    </item>
+    <item>
+      <title>本周看什么 | 最近值得一看的 10 部作品</title>
+      <link>https://sspai.com/post/119337</link>
+      <guid isPermaLink="true">https://sspai.com/post/119337</guid>
+    </item>
+    <item>
+      <title>游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验</title>
+      <link>https://sspai.com/post/119327</link>
+      <guid isPermaLink="true">https://sspai.com/post/119327</guid>
+    </item>
+    <item>
+      <title>当主力机与电脑不同系统，如何优雅实现「跨设备协同」？</title>
+      <link>https://sspai.com/bullet/1794216547</link>
+      <guid isPermaLink="true">https://sspai.com/bullet/1794216547</guid>
+    </item>
+    <item>
+      <title>浮屏：截图即可「上岛」，还能帮你记录生活</title>
+      <link>https://sspai.com/post/118879</link>
+      <guid isPermaLink="true">https://sspai.com/post/118879</guid>
+    </item>
+  </channel>
+</rss>

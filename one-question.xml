@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一问</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一问</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 23:25:57 +0000</lastBuildDate>
+    <atom:link href="public/one-question.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>你的小众怒点是什么？</title>
+      <link>http://wufazhuce.com/question/4726</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4726</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一周的心情｜本周小记精选</title>
+      <link>http://wufazhuce.com/question/4725</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4725</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>你最近一次崩溃，是因为多小的一件事？</title>
+      <link>http://wufazhuce.com/question/4724</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4724</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>不玩手机的时候，我们还能干什么？</title>
+      <link>http://wufazhuce.com/question/4723</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4723</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>双十一临近尾声，你购入了哪些生活好物？</title>
+      <link>http://wufazhuce.com/question/4722</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4722</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一周的心情｜本周小记精选</title>
+      <link>http://wufazhuce.com/question/4721</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4721</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>职场里，哪些是隐形工伤？</title>
+      <link>http://wufazhuce.com/question/4718</link>
+      <guid isPermaLink="true">http://wufazhuce.com/question/4718</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

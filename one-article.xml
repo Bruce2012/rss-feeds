@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE 每日一文</title>
+    <link>https://wufazhuce.com/</link>
+    <description>一个 ONE 每日一文</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 23:25:57 +0000</lastBuildDate>
+    <atom:link href="public/one-article.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>松林的清香 - 蔡淼</title>
+      <link>http://wufazhuce.com/article/7388</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7388</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>水鸟树林 - 胡布</title>
+      <link>http://wufazhuce.com/article/7390</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7390</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>当编辑变成计件工 - 清风吴语</title>
+      <link>http://wufazhuce.com/article/7391</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7391</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>草台班子 - 王英豪</title>
+      <link>http://wufazhuce.com/article/7387</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7387</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>潮热的深圳 - 露拉</title>
+      <link>http://wufazhuce.com/article/7383</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7383</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在雪山和雪山之间 - 乔阳</title>
+      <link>http://wufazhuce.com/article/7385</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7385</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>备注 -</title>
+      <link>http://wufazhuce.com/article/7386</link>
+      <guid isPermaLink="true">http://wufazhuce.com/article/7386</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
